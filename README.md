@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohammed Al-Helayl
+- 👀 I’m interested in Structural Analysis and Foundation Design
+- 🌱 I’m currently learning Python
